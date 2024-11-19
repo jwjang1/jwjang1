@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <h1>I am a software engineer. My passion is /h1>
+    <h3>I am a software engineer. My passion is </h3>
 </div>
 
 <!--

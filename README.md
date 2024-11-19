@@ -2,7 +2,8 @@
 
 ## I am a software engineer. My passion is AI/Deep Learning/Machine Learning.  
 
-  
+<br>
+
 ### I am currently working with...
 ![Static Badge](https://img.shields.io/badge/Java-5382a1)
 

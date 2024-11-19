@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Hello,%20I%20am%20Jungwon%20(Jane)%20Jang&fontSize=20&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Hello,%20I%20am%20Jungwon%20(Jane)%20Jang&fontSize=20&animation=blinking)
 
 
 <!--

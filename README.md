@@ -7,6 +7,8 @@
 ### I am currently working with...
 ![Static Badge](https://img.shields.io/badge/Java-5382a1) 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1)
 
 
 

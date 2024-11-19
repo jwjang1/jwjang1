@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCCF1,100:b6f6ff&height=300&section=header&text=Hi,%20I%20am%20Jungwon%20(Jane)%20Jang&fontSize=35&fontColor=8a8a8a" alt="header">
 
-## I am a software engineer. My passion is AI/Deep Learning/Machine Learning.   
-## 📚Tech Stack📚
+## I am a software engineer. My passion is AI/Deep Learning/Machine Learning.  
+
+## I am currently working with...
 ![Static Badge](https://img.shields.io/badge/Java-5382a1)
 
 

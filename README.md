@@ -4,9 +4,10 @@
 
 
 <div align="center">
-    <h3>I am a software engineer. My passion is AI/Deep Learning/Machine Learning.  </h3>
+    <h3>I am a software engineer. My passion is AI/Deep Learning/Machine Learning.</h3>
 </div>
 
+<br>
 ---
 
 <!--

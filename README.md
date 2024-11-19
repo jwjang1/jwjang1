@@ -16,12 +16,17 @@
 
 
 ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E)
-
+![Static Badge](https://img.shields.io/badge/Git-%23F05032)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717)
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26)
+![Static Badge](https://img.shields.io/badge/Colab-%23F9AB00)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84)
+![Static Badge](https://img.shields.io/badge/IntelliJ-%23000000)
+![Static Badge](https://img.shields.io/badge/CLion-%23000000)
+![Static Badge](https://img.shields.io/badge/Tableau-%23E97627)
 
 
 <!--
-**jwjang1/jwjang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

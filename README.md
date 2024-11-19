@@ -11,7 +11,9 @@
 ---
 
 <br>
-### Tech Stack
+<div align="center">
+    <h3>Tech Stack</h3>
+</div>
 
 <!--
 **jwjang1/jwjang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

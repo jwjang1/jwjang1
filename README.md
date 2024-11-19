@@ -1,12 +1,6 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCCF1,100:b6f6ff&height=300&section=header&text=Hi,%20I%20am%20Jungwon%20(Jane)%20Jang&fontSize=35&fontColor=8a8a8a" alt="header">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCCF1,100:b6f6ff&height=300&section=header&text=Hi,%20I%20am%20Jungwon%20(Jane)%20Jang&fontSize=35&fontColor=8a8a8a" alt="header">
 
-<div align="center">
-    <h3>I am a software engineer. My passion is AI/Deep Learning/Machine Learning.</h3>
-</div>
-
-<br>
+I am a software engineer. My passion is AI/Deep Learning/Machine Learning.
 
 ---
 

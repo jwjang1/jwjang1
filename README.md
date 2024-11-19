@@ -4,11 +4,19 @@
 
 <br>
 
-### I am currently working with...
+### I love working with...
 ![Static Badge](https://img.shields.io/badge/Java-5382a1) 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1)
+![Static Badge](https://img.shields.io/badge/MATLAB-orange)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6)
+
+<br>
+
+![Static Badge](https://img.shields.io/badge/AWS-%23232F3E)
 
 
 

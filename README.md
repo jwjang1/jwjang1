@@ -12,8 +12,10 @@
 
 <br>
 <div align="center">
-    <h3>Tech Stack</h3>
+    <h3>📚Tech Stack📚</h3>
 </div>
+![Static Badge](https://img.shields.io/badge/Java-5382a1)
+
 
 <!--
 **jwjang1/jwjang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

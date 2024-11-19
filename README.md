@@ -5,7 +5,9 @@
 <br>
 
 ### I am currently working with...
-![Static Badge](https://img.shields.io/badge/Java-5382a1)
+![Static Badge](https://img.shields.io/badge/Java-5382a1) 
+![Static Badge](https://img.shields.io/badge/Python-%233776AB)
+
 
 
 <!--

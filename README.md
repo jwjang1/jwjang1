@@ -4,8 +4,10 @@
 
 
 <div align="center">
-    <h3>I am a software engineer. My passion is AI/Deep learning/Machine learning.</h3>
+    <h3>I am a software engineer. My passion is AI/Deep Learning/Machine Learning.</h3>
 </div>
+
+---
 
 <!--
 **jwjang1/jwjang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

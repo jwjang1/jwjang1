@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6)
 
-<br>
 
 ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E)
 
